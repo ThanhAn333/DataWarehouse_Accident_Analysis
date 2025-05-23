@@ -75,5 +75,3 @@ Dự án này thực hiện các bước xây dựng hệ thống phân tích d�
 
 ---
 
-**Tác giả:**  
-Nguyen Thanh An  
